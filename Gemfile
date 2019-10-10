@@ -1,0 +1,12 @@
+source 'http://rubygems.org'
+
+gem 'cucumber'
+gem 'rake'
+gem 'rspec'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'rake'
+gem 'pry'
+gem 'rest-client'
+gem 'json'
+gem 'jsonpath'
