@@ -38,7 +38,7 @@ GEM
     http-accept (1.7.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    json (2.2.0)
+    json (2.3.0)
     jsonpath (1.0.4)
       multi_json
       to_regexp (~> 0.2.1)
